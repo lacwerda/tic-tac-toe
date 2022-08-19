@@ -1,0 +1,16 @@
+O programa está integralmente escrito em Python.
+O arquivo velha.py apresenta o código do módulo JogoDaVelha.
+O arquivo test_velha.py apresenta os testes do método checar_resultado.
+
+Para rodar o arquivo velha.py, basta executá-lo no terminal usando o comando:
+$ python velha.py
+
+Para rodar o arquivo test_velha.py, basta executá-lo no terminal usando o comando:
+$ python test_velha.py
+
+Para executar os testes do arquivo test_velha.py, basta utilizar o seguinte comando no
+diretório em que esses arquivos estão contidos:
+$ pytest
+
+ou, se preferir ver os nomes dos testes executados:
+$ pytest --verbose
